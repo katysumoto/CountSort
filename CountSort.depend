@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510321087 source:c:\users\m-12\documents\documents\countsort\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<conio2.h>
+	<stdio.h>
+
